@@ -1,6 +1,6 @@
 # ds200
 
-The data set used is the Indian Petroleum and Natural Gas Statistics - 2017-18 from https:data.gov.in.
+The data set used is the Indian Petroleum and Natural Gas Statistics - 2017-18 from https://data.gov.in/
 
 (a)Scatter Plot:
 
