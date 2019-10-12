@@ -20,3 +20,5 @@ The Line plot attached shows the variation of the Import Quantity of Petrol over
 Reference :https://data.gov.in/catalog/indian-petroleum-and-natural-gas-statistics-2017-18
 
 please Note that the csv file which I downloaded from this above link had an error in line 17 of this csv , so I had manually edited it and I am putting the edited dataset in the github page.You can view the python file used to Generate the plots and the dataset used in the module4.zip file.
+
+For executing the code in Terminal type : python plotgraph.py
